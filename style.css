@@ -1,0 +1,26 @@
+
+body {
+    background-color: black;
+
+}
+
+.titulo {
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Arial, sans-serif, monospace; /*fontes de backup*/
+    
+}
+
+.imagem {
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.github {
+    cursor: pointer;
+}
+.in{
+    cursor: pointer;
+}
